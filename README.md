@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @samvalderama29
-- 👀 I’m interested in online games
-- 🌱 I’m currently learning Phyton
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Samantha Angel E. Valderama
+- 👀 I’m interested in online games, web development, and any other software programs!
+- 🏫 I’m currently studying Computer Engineering at Polytechnic University of the Philippines - Manila
+- 📫 You can reach me at samanthaangelvalderama@gmail.com or samanthaangelevalderama@iskolarngbayan.pup.edu.ph
+- 👩🏻 Pronouns: she/her
+- 📢 Fun fact: I enjoyed exploring different hobbies; I'm into arts and science, anything that is innovative!
 
 <!---
 samvalderama29/samvalderama29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
